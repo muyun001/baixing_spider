@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71efbc7b-8bc9-4c89-a055-81b234176850" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+              <folding>
+                <element signature="e#237#1036#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/actions/parse.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+              <folding>
+                <element signature="e#17#167#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jobs/visit_url_and_extractor.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jobs/spider_cache_infos.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jobs/splice_keyword.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/structs/models/spider_cache_info.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" selection-start-line="2" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/channels/cache_url_date_chan.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/actions/shenghuo_service_parse.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/services/spider_cache_infos/is_included.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>currentData</find>
+      <find>ReleaseTime</find>
+      <find>ghttp</find>
+      <find>，</find>
+      <find>,</find>
+      <find>公司</find>
+      <find>ContactPhone</find>
+      <find>we</find>
+      <find>Write</find>
+      <find>VisitSourceUrlAndParse</find>
+      <find>pageNum: 1</find>
+      <find>怎么查看一个网站是否正在做百度推广</find>
+      <find>怎么查看一个网站是否正在做百度推广,2019年10月15日 10:30,苏州工业园区饶红青印章店,网站推广,姑苏/沧浪/金阊/平江园区吴中</find>
+      <find>startDate</find>
+      <find>forwardDateNum</find>
+      <find>pageNum</find>
+      <find>canyinmeishi</find>
+      <find>lenth:</find>
+      <find>, ,</find>
+      <find>title</find>
+      <find>标题,</find>
+      <find>read</find>
+      <find>,,</find>
+      <find>jiadianweixiu</find>
+      <find>jiaxiaofuwu</find>
+      <find>baiduSearchResult</find>
+      <find>visit_url_and_extractor</find>
+      <find>writeCount</find>
+    </findStrings>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/channels/shenghuo_service.go" />
+        <option value="$PROJECT_DIR$/actions/test_html/shenghuo_service_pc.html" />
+        <option value="$PROJECT_DIR$/actions/shenghuo_cache_url_crawl.go" />
+        <option value="$PROJECT_DIR$/data/shenghuo_service_cache_urls.txt" />
+        <option value="$PROJECT_DIR$/actions/shenghuo_html_crawl_and_send_chan.go" />
+        <option value="$PROJECT_DIR$/data/shenghuo_service_result.csv" />
+        <option value="$PROJECT_DIR$/actions/test_html/shenghuo_service_mobile.html" />
+        <option value="$PROJECT_DIR$/actions/shenghuo_service_parse.go" />
+        <option value="$PROJECT_DIR$/data/shenghuo_result.csv" />
+        <option value="$PROJECT_DIR$/services/read_csv.go" />
+        <option value="$PROJECT_DIR$/actions/crawl.go" />
+        <option value="$PROJECT_DIR$/services/splice_keywords/splice_keywords.go" />
+        <option value="$PROJECT_DIR$/services/spider_cache_urls/spider_cache_urls.go" />
+        <option value="$PROJECT_DIR$/services/spider_cache_infos/spider_cache_urls.go" />
+        <option value="$PROJECT_DIR$/structs/models/spider_cache_info.go" />
+        <option value="$PROJECT_DIR$/services/splice_keyword/splice_keywords.go" />
+        <option value="$PROJECT_DIR$/channels/cache_url_date_chan.go" />
+        <option value="$PROJECT_DIR$/services/is_included.go" />
+        <option value="$PROJECT_DIR$/services/visit_cache_url_and_extractor/visit_cache_url_and_extractor.go" />
+        <option value="$PROJECT_DIR$/services/visit_cache_url_and_extractor/visit_cache_url.go" />
+        <option value="$PROJECT_DIR$/services/visit_cache_url_and_extractor/extractor.go" />
+        <option value="$PROJECT_DIR$/jobs/splice_keywords.go" />
+        <option value="$PROJECT_DIR$/services/spider_cache_infos/send_info_to_chan.go" />
+        <option value="$PROJECT_DIR$/services/spider_cache_infos/spider_cache_infos.go" />
+        <option value="$PROJECT_DIR$/services/visit_url_and_extractor/visit_url.go" />
+        <option value="$PROJECT_DIR$/services/visit_url_and_extractor/extractor/baixing_shenghuo.go" />
+        <option value="$PROJECT_DIR$/services/visit_url_and_extractor/visit_url_and_extractor_phone.go" />
+        <option value="$PROJECT_DIR$/actions/parse.go" />
+        <option value="$PROJECT_DIR$/structs/models/extractor.go" />
+        <option value="$PROJECT_DIR$/jobs/spider_cache_infos.go" />
+        <option value="$PROJECT_DIR$/services/save_csv/save_csv.go" />
+        <option value="$PROJECT_DIR$/data/result.csv" />
+        <option value="$PROJECT_DIR$/services/visit_url_and_extractor/extractor/visit_url_and_extractor_phone.go" />
+        <option value="$PROJECT_DIR$/services/spider_cache_infos/baidu_search_result.go" />
+        <option value="$PROJECT_DIR$/services/visit_url_and_extractor/extractor/extractor_util/visit_url_and_extractor_phone.go" />
+        <option value="$PROJECT_DIR$/services/visit_url_and_extractor/extractor/baixing_shangwu_service.go" />
+        <option value="$PROJECT_DIR$/services/visit_url_and_extractor/extractor/baixing_shenghuo_service.go" />
+        <option value="$PROJECT_DIR$/services/visit_url_and_extractor/extractor/baixing_shangwu_service_test.go" />
+        <option value="$PROJECT_DIR$/services/visit_url_and_extractor/extractor/baixing_shenghuo_service_test.go" />
+        <option value="$PROJECT_DIR$/jobs/save_csv.go" />
+        <option value="$PROJECT_DIR$/settings/setting.go" />
+        <option value="$PROJECT_DIR$/global/write_csv.go" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/services/visit_url_and_extractor/visit_url_and_filter.go" />
+        <option value="$PROJECT_DIR$/services/visit_url_and_extractor/extractors/baixing_shangwu_service.go" />
+        <option value="$PROJECT_DIR$/structs/logics/baixing.go" />
+        <option value="$PROJECT_DIR$/services/visit_url_and_extractor/extractors/baixing_shenghuo_service.go" />
+        <option value="$PROJECT_DIR$/services/visit_url_and_extractor/extractor.go" />
+        <option value="$PROJECT_DIR$/jobs/visit_url_and_extractor.go" />
+        <option value="$PROJECT_DIR$/test.go" />
+        <option value="$PROJECT_DIR$/main.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="199" />
+    <option name="y" value="101" />
+    <option name="width" value="1918" />
+    <option name="height" value="998" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="baixing_spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baixing_spider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baixing_spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baixing_spider" type="462c0819:PsiDirectoryNode" />
+              <item name="actions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baixing_spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baixing_spider" type="462c0819:PsiDirectoryNode" />
+              <item name="channels" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baixing_spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baixing_spider" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baixing_spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baixing_spider" type="462c0819:PsiDirectoryNode" />
+              <item name="global" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baixing_spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baixing_spider" type="462c0819:PsiDirectoryNode" />
+              <item name="jobs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baixing_spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baixing_spider" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baixing_spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baixing_spider" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="spider_cache_infos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baixing_spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baixing_spider" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="visit_url_and_extractor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baixing_spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baixing_spider" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="visit_url_and_extractor" type="462c0819:PsiDirectoryNode" />
+              <item name="extractors" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baixing_spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baixing_spider" type="462c0819:PsiDirectoryNode" />
+              <item name="settings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baixing_spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baixing_spider" type="462c0819:PsiDirectoryNode" />
+              <item name="structs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baixing_spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baixing_spider" type="462c0819:PsiDirectoryNode" />
+              <item name="structs" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\fxt\baixing_spider\jobs" />
+      <recent name="D:\fxt\baixing_spider\services\visit_url_and_extractor\extractor\extractor_util" />
+      <recent name="D:\fxt\baixing_spider\services\visit_url_and_extractor\extractor" />
+      <recent name="D:\fxt\baixing_spider\utils" />
+      <recent name="D:\fxt\baixing_spider\write_content" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\fxt\baixing_spider" />
+      <recent name="D:\fxt\baixing_spider\services\visit_url_and_extractor\extractor" />
+      <recent name="D:\fxt\baixing_spider\actions\test_html" />
+      <recent name="D:\fxt\baixing_spider\actions" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="baixing_spider" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="baixing_spider" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build read_csv.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="baixing_spider" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/services/read_csv.go" />
+      <package value="baixing_spider" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build test.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="baixing_spider" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/test.go" />
+      <package value="baixing_spider" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestShenghuoServiceParseMobile in baixing_spider/actions" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="baixing_spider" />
+      <working_directory value="$PROJECT_DIR$/actions" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="baixing_spider/actions" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestShenghuoServiceParseMobile$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestShenghuoServiceParsePc in baixing_spider/actions" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="baixing_spider" />
+      <working_directory value="$PROJECT_DIR$/actions" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="baixing_spider/actions" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestShenghuoServiceParsePc$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build test.go" />
+        <item itemvalue="Go Build.go build read_csv.go" />
+        <item itemvalue="Go Test.TestShenghuoServiceParseMobile in baixing_spider/actions" />
+        <item itemvalue="Go Test.TestShenghuoServiceParsePc in baixing_spider/actions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestShenghuoServiceParsePc_in_baixing_spider_actions - 2019.10.31 at 14h 42m 00s.xml">
+      <configuration name="TestShenghuoServiceParsePc in baixing_spider/actions" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestShenghuoServiceParsePc_in_baixing_spider_actions - 2019.10.31 at 14h 42m 14s.xml">
+      <configuration name="TestShenghuoServiceParsePc in baixing_spider/actions" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestShenghuoServiceParsePc_in_baixing_spider_actions - 2019.10.31 at 14h 42m 50s.xml">
+      <configuration name="TestShenghuoServiceParsePc in baixing_spider/actions" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestShenghuoServiceParseMobile_in_baixing_spider_actions - 2019.10.31 at 15h 54m 00s.xml">
+      <configuration name="TestShenghuoServiceParseMobile in baixing_spider/actions" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestShenghuoServiceParseMobile_in_baixing_spider_actions - 2019.10.31 at 15h 54m 56s.xml">
+      <configuration name="TestShenghuoServiceParseMobile in baixing_spider/actions" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestShenghuoServiceParseMobile_in_baixing_spider_actions - 2019.10.31 at 15h 58m 05s.xml">
+      <configuration name="TestShenghuoServiceParseMobile in baixing_spider/actions" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestShenghuoServiceParseMobile_in_baixing_spider_actions - 2019.10.31 at 15h 58m 24s.xml">
+      <configuration name="TestShenghuoServiceParseMobile in baixing_spider/actions" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestShenghuoServiceParseMobile_in_baixing_spider_actions - 2019.10.31 at 16h 13m 14s.xml">
+      <configuration name="TestShenghuoServiceParseMobile in baixing_spider/actions" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestShenghuoServiceParseMobile_in_baixing_spider_actions - 2019.10.31 at 16h 14m 22s.xml">
+      <configuration name="TestShenghuoServiceParseMobile in baixing_spider/actions" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestShenghuoServiceParseMobile_in_baixing_spider_actions - 2019.10.31 at 16h 18m 58s.xml">
+      <configuration name="TestShenghuoServiceParseMobile in baixing_spider/actions" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1748401" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3169643" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.23549107" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.24553572" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.41629463" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17324094" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3169643" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.23549107" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.24553572" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.41629463" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/actions/parse_test.go</url>
+          <line>36</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/actions/shenghuo_service_parse.go</url>
+          <line>134</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/jobs/save_csv.go</url>
+          <line>8</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/actions/shenghuo_html_crawl_and_send_chan.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-432">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/shenghuo_service_cache_urls.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actions/shenghuo_cache_url_crawl.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+          <folding>
+            <element signature="e#403#1202#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actions/test_html/shenghuo_service_mobile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="633" lean-forward="true" selection-start-line="633" selection-end-line="633" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#article#0;n#body#0;n#div#3;n#!!top" expanded="true" />
+            <element signature="e#9926#9932#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#main#0;n#article#0;n#body#0;n#div#3;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actions/shenghuo_service_parse_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#22#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pkg/mod/github.com/!puerkito!bio/goquery@v1.5.0/iteration.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/os/file.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="73" column="10" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/encoding/csv/reader.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1436">
+          <caret line="193" selection-start-line="193" selection-end-line="193" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/shenghuo_result.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="3151" column="40" selection-start-line="3151" selection-start-column="40" selection-end-line="3151" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/read_csv.go" />
+    <entry file="file://$PROJECT_DIR$/../pkg/mod/github.com/kevin-zx/baidu-seo-tool@v0.0.0-20191028091259-8223d8406825/search/baiduSearchResultPaser.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="90" column="16" lean-forward="true" selection-start-line="90" selection-start-column="16" selection-end-line="90" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/is_included.go" />
+    <entry file="file://$PROJECT_DIR$/services/visit_url_and_extractor/visit_url_and_extractor.go" />
+    <entry file="file://$PROJECT_DIR$/services/splice_keyword/splice_keyword.go" />
+    <entry file="file://$PROJECT_DIR$/data/result.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="301" column="16" lean-forward="true" selection-start-line="301" selection-start-column="16" selection-end-line="301" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/visit_url_and_extractor/extractors/test_html/pc.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actions/parse_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/visit_url_and_extractor/extractors/baixing_shenghuo_service_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#19#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/global/count.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings/setting.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#18#88#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/runtime/asm_amd64.s">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="538" selection-start-line="538" selection-end-line="538" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/runtime/proc.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="157" selection-start-line="157" selection-end-line="157" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/runtime/panic.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="870" column="32" selection-start-line="870" selection-start-column="32" selection-end-line="870" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jobs/save_csv.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/global/write_csv.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#16#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actions/crawl.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="126" lean-forward="true" selection-start-line="126" selection-end-line="126" />
+          <folding>
+            <element signature="e#17#214#0" expanded="true" />
+            <element signature="e#362#1206#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/encoding/csv/writer.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="48" column="29" lean-forward="true" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/visit_url_and_extractor/extractors/extractor_util/visit_url_and_extractor_phone.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/visit_url_and_extractor/extractors/baixing_shangwu_service_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#20#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/visit_url_and_extractor/visit_url_and_filter.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structs/logics/baixing.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/visit_url_and_extractor/extractors/baixing_shenghuo_service.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1269">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/visit_url_and_extractor/extractor.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/spider_cache_infos/baidu_search_result.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/spider_cache_infos/send_info_to_chan.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#28#143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structs/models/extractor.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/channels/shenghuo_service.go" />
+    <entry file="file://$PROJECT_DIR$/services/visit_url_and_extractor/extractors/baixing_shangwu_service.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3618">
+          <caret line="140" selection-start-line="9" selection-end-line="140" />
+          <folding>
+            <element signature="e#20#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jobs/visit_url_and_extractor.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jobs/spider_cache_infos.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structs/models/spider_cache_info.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/channels/cache_url_date_chan.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actions/shenghuo_service_parse.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/spider_cache_infos/is_included.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/log/log.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="306" column="21" selection-start-line="306" selection-start-column="18" selection-end-line="306" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jobs/splice_keyword.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actions/parse.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+          <folding>
+            <element signature="e#17#167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="e#237#1036#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
